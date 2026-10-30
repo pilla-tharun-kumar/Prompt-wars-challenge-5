@@ -7,14 +7,14 @@
 One connected plan for budget, timeline and vendors, built for Indian families.<br/>
 Change the guest count and watch catering, budget and warnings move together.
 
-[![CI](https://github.com/akshayparihardev/Promptwars-Challenge-5/actions/workflows/ci.yml/badge.svg)](https://github.com/akshayparihardev/Promptwars-Challenge-5/actions)
+[![CI](https://github.com/pilla-tharun-kumar/Prompt-wars-challenge-5/actions/workflows/ci.yml/badge.svg)](https://github.com/pilla-tharun-kumar/Prompt-wars-challenge-5/actions)
 ![Tests](https://img.shields.io/badge/tests-405%20unit%20%2B%2014%20e2e-2f6b45)
 ![a11y](https://img.shields.io/badge/axe-0%20violations%20(light%20%26%20dark)-2f6b45)
 ![Coverage](https://img.shields.io/badge/coverage-100%25%20lines-2f6b45)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6)
 ![Gemini](https://img.shields.io/badge/Gemini-model%20chain-5e2750)
 
-**[🌐 Live app](https://promptwars-challenge-5.vercel.app/)** · Built for PromptWars Virtual, Challenge 5: Celebration & Event Planner
+**[🌐 Live app](https://pranalikapromptwars.vercel.app/)** · Built for PromptWars Virtual, Challenge 5: Celebration & Event Planner
 
 </div>
 
@@ -75,7 +75,7 @@ Then just **ask**: _"Kitna kharcha bacha hai?"_, _"What should we book first?"_,
 
 ## ⏱️ Try it in two minutes
 
-Open the **[live app](https://promptwars-challenge-5.vercel.app/)** and follow Priya's shaadi:
+Open the **[live app](https://pranalikapromptwars.vercel.app/)** and follow Priya's shaadi:
 
 1. ✍️ **Describe it** in your own words: _"Shaadi in Pune, 200 guests, 8 lakh budget, mid-Feb, simple ceremony but premium food"_ and press **Fill form from description**. Gemini fills the form; you can still edit everything.
 2. 💰 **Budget.** Catering is boosted because "premium food" matters most. Drag **Photography** up and a toast shows exactly what shrank. **Lock** catering to protect it.
@@ -272,8 +272,8 @@ AI responses are cached server-side for 10 minutes, an AI request is **cancelled
 ## 🚀 Run it locally
 
 ```bash
-git clone https://github.com/akshayparihardev/Promptwars-Challenge-5.git
-cd Promptwars-Challenge-5
+git clone https://github.com/pilla-tharun-kumar/Prompt-wars-challenge-5.git
+cd Prompt-wars-challenge-5
 npm install
 cp .env.example .env     # add your GEMINI_API_KEY
 npm run dev              # UI and /api together (same handlers as production)
